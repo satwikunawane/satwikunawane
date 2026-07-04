@@ -37,8 +37,8 @@
 ---
 
 ## 🏆 Certifications
-- ✅ AWS Cloud Practitioner — Dec 2023  
-- 🔄 AWS Solutions Architect Associate — Pursuing
+ 
+- ✅AWS Solutions Architect Associate — June 2026
 
 ---
 
