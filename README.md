@@ -1,8 +1,8 @@
 # Hi, I'm Satwik Unawane 👋
 
-🔭 Cloud Engineer | 2.7 years experience | AWS | Linux | Pune  
+🔭 Cloud Engineer | 2 years experience | AWS | Linux | Pune  
 🌱 Currently learning: Terraform · Docker · Kubernetes · Jenkins  
-🎯 Targeting: DevOps Engineer / AWS Cloud Engineer roles  
+🎯 Targeting:  AWS Cloud Engineer roles  
 📫 Connect: [LinkedIn](https://linkedin.com/in/satwikunawane)
 
 ---
